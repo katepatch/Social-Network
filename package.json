@@ -1,0 +1,26 @@
+{
+  "name": "social-network",
+  "version": "1.0.0",
+  "description": "social network api nosql",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/katepatch/Social-Network.git"
+  },
+  "keywords": [
+    "[]"
+  ],
+  "author": "Kate Patch",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/katepatch/Social-Network/issues"
+  },
+  "homepage": "https://github.com/katepatch/Social-Network#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "mongoose": "^6.6.0"
+  }
+}
