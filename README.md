@@ -1,8 +1,16 @@
 # Social Network
 
- Module 18 Challenge
+NoSQL API Project 
 
  Social network users can share thoughts, create friends lists, and react to friend's thoughts with this API project.
+
+## Table of Contents
+
+[User Story](#user-story)</br>
+[Project Criteria](#project-criteria)</br>
+[Installation](#installation)</br>
+[Preview](#preview)</br>
+[Questions](#questions)
 
 ## User Story
 
@@ -27,7 +35,7 @@ THEN I am able to successfully create and delete reactions to thoughts and add a
 Start by cloning this repository</br>
 Run `npm i` to download the packages for Express.js and Mongoose
 
-## Usage
+## Preview
 
 ## Questions
 
