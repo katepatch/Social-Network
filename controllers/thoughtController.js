@@ -94,6 +94,6 @@ module.exports = {
                 ? res.status(404).json({ message: "No Thought found with this ID" })
                 : res.json(thought)
             )
-            .catch((err) => res.status(500).json(err);)
+            .catch((err) => res.status(500).json(err));
     },
 };
