@@ -1,6 +1,6 @@
 # Social Network
 
-NoSQL API Project 
+NoSQL API Project
 
  Social network users can share thoughts, create friends lists, and react to friend's thoughts with this API project.
 
