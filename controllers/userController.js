@@ -40,8 +40,8 @@ module.exports = {
                 ? res.status(404).json({ message: "Can't find user with this ID" })
                 : res.json(user)
                 )
-        .catch((err) =>> res.status(500).json(err));
+        .catch((err) => res.status(500).json(err));
     },
 
-    
+
 }
