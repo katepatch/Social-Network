@@ -3,7 +3,7 @@ const { Schema, mdoel, Types } = require('mongoose');
 const userSchema = new Schema(
     {
         username: {
-            type: Sting,
+            type: String,
             unique: true,
             required: true,
             trim: true,
