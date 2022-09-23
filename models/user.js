@@ -32,7 +32,7 @@ const userSchema = new Schema(
     },
     {
         toJSon: {
-            virtuals: ture,
+            virtuals: true,
         },
         id: false,
     }
