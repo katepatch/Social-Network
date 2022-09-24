@@ -33,9 +33,34 @@ THEN I am able to successfully create and delete reactions to thoughts and add a
 ## Installation
 
 Start by cloning this repository</br>
-Run `npm i` to download the packages for Express.js and Mongoose
+Run `npm i` to download the packages for Express.js, Mongoose, and Moment
 
 ## Preview
+
+Video walkthrough [part 1](https://watch.screencastify.com/v/fsMt7i3dMfpHtwSwvFZ8)</br>
+Video walkthrough [part 2](https://watch.screencastify.com/v/m7kH4ibCLtMhGIYssHBv)</br>
+
+Users API routes
+![screenshot](./assets/insomniaUsers.png)</br>
+GET all & single users, PUT update users, POST create users, DEL delete users
+
+Friends API routes
+![screenshot](./assets/friends-api.png)</br>
+POST add friend, DEL remove friend
+
+Thoughts API Routes
+![screenshot](./assets/insomniaThoughts.png)</br>
+GET all & single thoughts, ,PUT update thought, POST create thought, DEL delete thought
+
+Reactions API Routes
+![screenshot](./assets/insomniaReactions.png)</br>
+POST add reaction, DEL remove reaction
+
+MongoDB Users
+![screenshot](./assets/mongoDBusers.png)
+
+MongoDB Thoughts
+![screenshot](./assets/mongoDBthougths.png)
 
 ## Questions
 
