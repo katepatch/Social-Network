@@ -40,7 +40,7 @@ module.exports = {
         Thought.findOneAndUpdate(
             { _id: req.params.thoughtId },
             { $set: req.body },
-            { runValidators: ture, new: true }
+            { runValidators: true, new: true }
         )
             .then((user) => 
                 !user
