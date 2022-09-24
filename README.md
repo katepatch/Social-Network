@@ -37,6 +37,7 @@ Run `npm i` to download the packages for Express.js, Mongoose, and Moment
 
 ## Preview
 
+Please watch the following walkthroughs to see all routes tested</br>
 Video walkthrough [part 1](https://watch.screencastify.com/v/fsMt7i3dMfpHtwSwvFZ8)</br>
 Video walkthrough [part 2](https://watch.screencastify.com/v/m7kH4ibCLtMhGIYssHBv)</br>
 
